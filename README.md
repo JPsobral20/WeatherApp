@@ -1,26 +1,34 @@
-# Weather App
+# WeatherApp
 
----
+A responsive weather application built with Flutter, providing real-time weather information through an intuitive and interactive interface.
 
-## Description
+## Overview
 
-- A responsive Flutter Weather application with real-time data gathering from a weather API and seamless interface updates.
-- User can check the predicted weather info on each of the following hours of the current and following days.
-- Graphical representation of the sun position.
-- Update measure metrics (Fahrenheit and Celsius) seamlessly.
-- Dashboard sections with weekly weather statistics.
+WeatherApp allows users to explore current weather conditions and forecast information for the upcoming hours and days.
 
-**Tool:** Flutter
+## Features
 
---- 
+- **Real-Time Weather Data:** Retrieve up-to-date weather information from a weather API.
+- **Hourly Forecasts:** Explore predicted weather conditions for each hour of the current and following days.
+- **Sun Position Visualization:** Graphical representation of the sun's position.
+- **Temperature Unit Conversion:** Seamlessly switch between Celsius and Fahrenheit.
+- **Weekly Weather Statistics:** Dedicated dashboard sections displaying weekly weather information.
+- **Responsive Interface:** User-friendly interface designed for different screen sizes.
 
-## Screenshots 
+## Technology Stack
 
+- **Flutter**
+- **Dart**
+- **Weather API**
 
-<img width="373" height="835" alt="image" src="https://github.com/user-attachments/assets/43bc2ac5-190b-4713-9925-14a3dad05d42" />
+## Screenshots
 
-<img width="384" height="859" alt="image" src="https://github.com/user-attachments/assets/3e253b2c-e644-46f7-a0e4-d582cedd2f92" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43bc2ac5-190b-4713-9925-14a3dad05d42" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3e253b2c-e644-46f7-a0e4-d582cedd2f92" width="30%" />
+</p>
 
-<img width="384" height="586" alt="image" src="https://github.com/user-attachments/assets/762f899f-3c0c-4c00-8875-19ccd7408693" />
-
-<img width="312" height="673" alt="image" src="https://github.com/user-attachments/assets/4604aeab-21cf-47d0-97b9-5741ec59fc62" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/762f899f-3c0c-4c00-8875-19ccd7408693" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4604aeab-21cf-47d0-97b9-5741ec59fc62" width="30%" />
+</p>
